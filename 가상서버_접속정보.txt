@@ -1,0 +1,23 @@
+<Context docBase="Y:/" path="/upload" reloadable="true"/>
+
+ip 	: 	10.21.101.171
+port 	: 	60385
+sck 	: 	LfnDmZxd7bPZ
+root 	: 	tpdlqmejclfemfjs123$
+
+ip 	: 	180.71.47.49
+port	:	22
+root	:	tpdl_0404
+
+dev was 2°³ path
+	/usr/local/server01
+	/usr/local/server02
+
+IP : 10.21.101.183
+root // tpdlqmejclfemfjs123$
+queryjet / 4RaquPrUp@
+
+
+10.174.5.204:50220
+
+queryjet/4RaquPrUp@
