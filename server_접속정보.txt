@@ -1,6 +1,6 @@
-½Å±Ô °³¹ßÁßÀÎ ¼­¹ö
+ï»¿ì‹ ê·œ ê°œë°œì¤‘ì¸ ì„œë²„
  
-È£½ºÆ®	¾ÆÀÌµğ	ºñ¹Ğ¹øÈ£
+í˜¸ìŠ¤íŠ¸	ì•„ì´ë””	ë¹„ë°€ë²ˆí˜¸
 scdb(175.117.145.150)	queryjet	pAbRAra$8S	60385
 scfile(175.117.145.149)	queryjet	4RaquPrUp@	60385
 scwas(175.117.145.148)	queryjet	sU5Tu_rEfr 	60385
@@ -10,17 +10,17 @@ DB	175.117.145.150	60385	oracle	znjflwpt!!
 DB	175.117.145.150	60385	root	!23o#55@3nbh
 
 
-ÇöÀç ¿î¿µÁßÀÎ ¼­¹ö
+í˜„ì¬ ìš´ì˜ì¤‘ì¸ ì„œë²„
 175.117.145.192		root 		scT%Y^U&
 175.117.145.192		queryjet	!Es2ajuPex	
 
 
-¼­½Å ÆĞ½º : /home/renewal/public/upload/vms/letter
-¼­½Å ÆĞ½º2 : /sc_home/upload/vms/letter/
-dev ¹× ¿î¿µ ÆĞ½º : /upload/vms/letter
+ì„œì‹  íŒ¨ìŠ¤ : /home/renewal/public/upload/vms/letter
+ì„œì‹  íŒ¨ìŠ¤2 : /sc_home/upload/vms/letter/
+dev ë° ìš´ì˜ íŒ¨ìŠ¤ : /upload/vms/letter
 
 http://sckvms.sc.or.kr/upload/vms/letter/online_S_ML_K_20140806_09123714.JPG
 
 2013SC16 / spon1234
 
-ÃÖÀÎÀ±(ÈÄ¿ø) : 02-6900-4469
+ìµœì¸ìœ¤(í›„ì›) : 02-6900-4469

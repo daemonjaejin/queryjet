@@ -1,4 +1,4 @@
-<Context docBase="Y:/" path="/upload" reloadable="true"/>
+ï»¿<Context docBase="Y:/" path="/upload" reloadable="true"/>
 
 ip 	: 	10.21.101.171
 port 	: 	60385
@@ -9,7 +9,7 @@ ip 	: 	180.71.47.49
 port	:	22
 root	:	tpdl_0404
 
-dev was 2°³ path
+dev was 2ê°œ path
 	/usr/local/server01
 	/usr/local/server02
 
